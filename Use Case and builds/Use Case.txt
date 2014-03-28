@@ -1,0 +1,32 @@
+Registering As New User:
+Task_1: Design the start page;(Lead Designer)
+Task_2: Implement the datastore functions for user account info; (Data Designer)
+Task_3: Implement button/page navigation; (Lead Progmmer)
+
+Login as an existing user:
+Task_1: Design the start page;(Lead Designer)
+Task_2: Implement the datastore functions user account info; (Data Designer)
+Task_3: Implement button/page navigation; (Lead Progmmer)
+
+Play a game from the game list:
+Task_1: Design the game page;(Lead Designer)
+Task_2: Implement the datastore functions for game statistics; (Data Designer)
+Task_3: Implement button/page navigation; (Lead Progmmer)
+Task_4: Implement the game; (Lead Progmmer+Project Mananger)
+
+Play daily Work out:
+Task_1: Design the daily work out page;(Lead Designer)
+Task_2: Implement the function to randomly choose games from the list or based on user's preference; (Lead Progmmer)
+Task_3: Implement the game; (Lead Progmmer+Project Mananger)
+
+Change Account Information:
+Task_1: Design the account information page;(Lead Designer)
+Task_2: Implement the datastore functions to allow user to modify and update account info; (Data Designer)
+
+Check Achievement page:
+Task_1: Design the Acheivement page;(Lead Designer)
+Task_2: Implement the datastore functions for signle user statistics and multiple user statistics comparsion; (Data Designer)
+Task_3: Implement button/page navigation; (Lead Progmmer)
+Task_4: Implement visuals for achievements; (Lead Progmmer)
+
+

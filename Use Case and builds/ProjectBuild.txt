@@ -1,0 +1,19 @@
+1st week:
+We will implement one game (by lead programmer and program manager), and finish the design of our website's start page (By lead Designer). The users may not be able to
+sign up at the moment, but we could have some defult account in the datastore, so that the log in is possible. (By Data designer)
+
+2nd week:
+We will implement two games (by lead programmer and program manager), and finish the design of user's home page once a user is logged in ( By lead Designer). The users 
+can register for a account now (By Data designer).
+
+3nd week:
+We will implement two games (by lead programmer and program manager), and finish the design of Daily Workout and play games page(By lead Designer). The users can modify
+their information on the account now (By Data designer).
+
+4th week:
+We will implement two games (by lead programmer and program manager), and finish the design of achievement page(By lead Designer). The users can check the game statistics
+after playing a game now, such as high score(By Data designer).
+
+5th week:
+We will implement two/three games (by lead programmer and program manager), and finish the design of achievement:statistics page(By lead Designer). The user can compare 
+their game statistics with other users now(By Data designer).
