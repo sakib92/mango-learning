@@ -1,6 +1,6 @@
 Mango Learning by Mango Tango.
 
-Build Process
+BUILD PROCESS
 1. Fork the latest update from GitHub when logging in for the first time. The repository should now be available
 on your Github account. 
 2. Open up gut bash. 
@@ -11,3 +11,10 @@ The repository will be created in the current directory gitbash is in
 6. Use "git fetch" to get any new updates from the online repository. 
 
 IMPORTANT: Make sure you have detailed comments when making a commit. 
+
+
+FRONT-END API
+1. Google Web Toolkit
+2. Javascript
+3. HTML/CSS
+4. JQuery
